@@ -2,7 +2,6 @@
 Mencari loker pada lantai sebuah gedung
 
 <!-- GETTING STARTED -->
-## Langkah-langkah run project
 
 ### Install NodeJS
 
