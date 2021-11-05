@@ -12,7 +12,7 @@ Download NodeJS di [https://nodejs.org/en/download/](https://nodejs.org/en/downl
 
 _Langkah-langkah menjalankan project._
 
-1. ketik npm install pada command propmpt yang sudah telokasi pada folder project
+1. ketik npm install pada command prompt yang sudah telokasi pada folder project
    ```sh
    npm install
    ```
